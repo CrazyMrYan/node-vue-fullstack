@@ -1,5 +1,5 @@
 {
-  "name": "demo-project",
+  "name": "node-vue-fullstack",
   "version": "1.0.0",
   "scripts": {
     "start:client": "cross-env NODE_ENV=development vue-cli-service serve --host localhost --port 8080",
