@@ -5,6 +5,12 @@
 
 > Nodejs 需要切换至 14.x || 16.x || 18.x 版本
 
+> 默认端口 3000，启动项目之后打开 http://localhost:3000/ 即可。
+
+## 视频演示
+
+[![视频缩略图](https://img.youtube.com/vi/3nwlU3_E9Ck/0.jpg)](https://youtu.be/3nwlU3_E9Ck)
+
 ## Feature
 
 - 前后端支持热更新
@@ -13,7 +19,7 @@
 
 ## 使用
 
-运行正式环境
+运行开发环境
 
 ```shell
 # yarn
